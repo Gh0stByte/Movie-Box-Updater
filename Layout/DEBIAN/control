@@ -1,0 +1,23 @@
+Package: com.gh0stbyte.movieboxupdater
+Name: Movie Box Updater
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Update your Movie Box database whenever you wish with this nifty tweak made by Gh0stByte, of iOSCheaters.com
+  With this tweak, you can update your Movie Box database whenever you want, no need to wait 24 hours.
+  Complete re-work of the tweak! You can now update via a button in the menu's header.
+  Changelog:
+  v.3.6.4
+  - Fully compatible with latest Movie Box (3.6.4)
+  - Tweaked code for optimum speed
+  - Minor UI changes
+  - Version check on startup
+  v.3.6.2
+  - Updated to work for the latest Movie Box (3.6.2)
+  - Changed the way you preform updates.
+  - Added custom button to update the Database.
+  v.1.0.0
+  - Initial Release
+Maintainer: Gh0stByte <gh0stbyte01@gmail.com>
+Author: Gh0stByte <gh0stbyte01@gmail.com>
+Section: Tweaks
+Version: 3.6.4

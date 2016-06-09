@@ -1,0 +1,10 @@
+#!/bin/sh
+echo 
+echo '#####################################################'
+echo '        Movie Box 3 Updater --- Version 3.6.4        '
+echo '#####################################################'
+echo 'Made by Gh0stByte! Enjoy! See more at iOSCheaters.com'
+echo '#####################################################'
+echo     
+echo   
+exit 0
